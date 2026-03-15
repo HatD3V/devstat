@@ -140,6 +140,19 @@ devstat/
 
 ---
 
+## Ubuntu Install ( UnTested )
+
+```
+# Add the repo
+echo "deb [trusted=yes] https://hatd3v.github.io/devstat/repo/apt ./" | sudo tee /etc/apt/sources.list.d/devstat.list
+
+# Update package list
+sudo apt update
+
+# Install
+sudo apt install devstat
+```
+
 ## License
 
 MIT
