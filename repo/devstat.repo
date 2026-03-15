@@ -1,0 +1,5 @@
+[devstat]
+name=DevStat
+baseurl=https://hatd3v.github.io/devstat/repo/rpm
+enabled=1
+gpgcheck=0
