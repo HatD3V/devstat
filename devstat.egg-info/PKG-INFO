@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: devstat
+Version: 1.0.1
+Summary: Linux device stats inspector — USB, Bluetooth, Android, Battery
+Author: DevStat
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Environment :: X11 Applications
+Classifier: Topic :: System :: Hardware
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: psutil>=5.9
+Requires-Dist: pyusb>=1.2
+Dynamic: author
+Dynamic: classifier
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

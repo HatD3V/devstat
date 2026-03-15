@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+devstat/__init__.py
+devstat/cli.py
+devstat/detector.py
+devstat/exporter.py
+devstat/gui.py
+devstat.egg-info/PKG-INFO
+devstat.egg-info/SOURCES.txt
+devstat.egg-info/dependency_links.txt
+devstat.egg-info/entry_points.txt
+devstat.egg-info/requires.txt
+devstat.egg-info/top_level.txt
